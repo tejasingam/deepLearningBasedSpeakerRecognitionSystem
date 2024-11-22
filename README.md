@@ -1,4 +1,4 @@
-**Deep Learning-Based Speaker Recognition System**
+# Deep Learning-Based Speaker Recognition System
 
 This repository implements a speaker recognition system using a transformer-based deep learning model. The project focuses on classifying speakers based on input features derived from audio data.
 
